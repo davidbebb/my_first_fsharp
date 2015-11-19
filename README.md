@@ -40,6 +40,8 @@ To compile: fsharpc <file>.fs
 To Run: mono hello_world.exe
 
 http://www.codeproject.com/Articles/738093/Fsharp-Hello-World for detailed notes on concepts here
+ - now sumarised in hello_world
+
 
 ## Things to do
 
