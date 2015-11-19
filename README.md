@@ -45,5 +45,8 @@ http://www.codeproject.com/Articles/738093/Fsharp-Hello-World for detailed notes
 
 ## Things to do
 
+Play with REPL - fsharpi
+ - NB commands take form #<command>;;
+
 http://channel9.msdn.com/Blogs/David+Gristwood/An-Introduction-to-F-with-Don-Syme-1-of-4
 http://fsharpforfunandprofit.com/learning-fsharp/ (nice list of dos and don'ts for learngin f#, esp as purely functional language)
